@@ -1,0 +1,108 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Product A",
+      "price": 220,
+      "description": "This is product A",
+      "thumbnail": "https://picsum.photos/200/300.webp",
+      "stock": 100,
+      "categoryId": 1
+    },
+    {
+      "id": 2,
+      "title": "Product B",
+      "price": 180,
+      "description": "This is product B",
+      "thumbnail": "https://picsum.photos/200/300.webp",
+      "stock": 100,
+      "categoryId": 1
+    },
+    {
+      "id": 3,
+      "title": "Product C",
+      "price": 120,
+      "description": "This is product C",
+      "thumbnail": "https://picsum.photos/200/300.webp",
+      "stock": 100,
+      "categoryId": 2
+    },
+    {
+      "id": 4,
+      "title": "Product D",
+      "price": 150,
+      "description": "This is product D",
+      "thumbnail": "https://picsum.photos/200/300.webp",
+      "stock": 100,
+      "categoryId": 2
+    },
+    {
+      "id": 5,
+      "title": "Product E",
+      "price": 200,
+      "description": "This is product E",
+      "thumbnail": "https://picsum.photos/200/300.webp",
+      "stock": 100,
+      "categoryId": 3
+    },
+    {
+      "id": 6,
+      "title": "Product F",
+      "price": 250,
+      "description": "This is product F",
+      "thumbnail": "https://picsum.photos/200/300.webp",
+      "stock": 100,
+      "categoryId": 3
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Technology",
+      "slug": "technology"
+    },
+    {
+      "id": 2,
+      "name": "Clothing",
+      "slug": "clothing"
+    },
+    {
+      "id": 3,
+      "name": "Others",
+      "slug": "others"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "email": "admin@gmail.com",
+      "password": "admin",
+      "role": "admin"
+    },
+    {
+      "email": "hieu@gmail.com",
+      "password": "$2a$10$RdR1jEBaYknMAIe12ZzIgefOtlC.RqYKr1DpU3FtaQjIGmvfLIhr6",
+      "name": "sdfsdfs",
+      "id": 2
+    },
+    {
+      "email": "trunghieu11250605@gmail.com",
+      "password": "$2a$10$P8hPnjS0VEz2Fv5mtL4qfe4ny3XbympZpyQmMNThjMSRAX.3H0s32",
+      "name": "fsdf",
+      "id": 3
+    },
+    {
+      "email": "trunghieu112dfsdfs50605@gmail.com",
+      "password": "$2a$10$uS0MVJwRTHKLrW6uDJyQteqA6vQ/uCTMOMLR435FRSk6mLp2TwR8S",
+      "name": "dfdsfds",
+      "id": 4
+    },
+    {
+      "email": "aaaa@gmsil.vom",
+      "password": "$2a$10$m8evH7YfX8a0vYfQrudWUOVuqeuWGui6Bzd0klxfRKfQJu2chc0dG",
+      "name": "sdfsdfds",
+      "id": 5
+    }
+  ]
+}
